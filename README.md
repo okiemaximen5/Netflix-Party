@@ -213,3 +213,6 @@ Netflix Party is the full version and is completely free to use, featuring all f
 - 📧 **[Support](mailto:support@www.softyne.com)**
 - 📖 **[Documentation](https://www.softyne.com/privacy-policy-2/)**
 - 💬 **[Community](https://www.softyne.com/about-us/)**
+
+---
+**Last updated:** 2026-09-18 05:43:00 UTC
